@@ -27,3 +27,4 @@ docker run --rm -e USER_NAME=SUPERUSER my-app
 9. /usr/lib/x86_64-linux-gnu/libgnutls.so.30.34.3 - 2145.74 KB
 10. /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30 - 2139.10 KB
 ```
+![Результат выполнения.](/docker%20run.png)
