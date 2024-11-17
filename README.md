@@ -16,7 +16,7 @@ docker build -t work1-app .
 
 Пример команды запуска:
 ```
-docker run --rm -e USER_NAME=SUPERUSER my-app
+docker run --rm -e USER_NAME=SUPERUSER work1-app
 ```
 
 После запуска контейнера вы должны увидеть вывод в терминале, который будет включать:
